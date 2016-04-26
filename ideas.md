@@ -37,6 +37,13 @@ Maybe even try out machine learning on this.
 
 Maybe bring big data to bear on research papers. Do some map reduce jobs to see what terms or topics are most common.
 
+###### Geography quiz  
+
+Simple app that quizzes you on geography. It picks a random country and asks, "What country shares a border with this country?" On easy mode it offers multiple choice - hard mode, fill in the blank. Perhaps a database already exists that has these border relationships. If not, just making the database would be an interesting exercise...
+
+
+###### Make apps for AWS
+So many ideas for this, and so ludicrously full of potential in profitable marketability that I won't list these ideas here!
 
 
 ###### (Grow your skills as a linux sysadmin)
